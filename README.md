@@ -1,0 +1,1 @@
+# ollama-qdrant-demos
